@@ -1,0 +1,7 @@
+wrangler.jsonc
+.cloudflare
+.wrangler
+README.md
+.prettierrc
+.prettierignore
+eslint.config.js
